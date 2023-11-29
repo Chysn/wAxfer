@@ -1,0 +1,11 @@
+Materials for wAxfer Interface
+
+* User Port PCB (https://www.pcbway.com/project/shareproject/Commodore_64_User_Port_Project_Development_PCB_bb031400.html)
+
+* Card Edge Connector (805-24p 2x12pin 3.96mm Pitch)
+
+* Arduino Nano
+
+* HM-10 Bluetooth 4.0 Module
+
+* Female 2.54mm single row breakaway pin headers
